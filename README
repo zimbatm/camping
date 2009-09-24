@@ -74,7 +74,7 @@ the database you need +activerecord+ as well:
 
 * Start by reading the documentation in {the Camping module}[link:classes/Camping.html],
   it should get you started pretty quick.
-* {The wiki}[http://wiki.github.com/why/camping] is the place for all tiny,
+* {The wiki}[http://wiki.github.com/camping/camping] is the place for all tiny,
   useful tricks that we've collected over the years.  Don't be afraid to
   share your own discoveries; the more, the better!
 * Still wondering?  Subscribe to {the mailing list}[http://rubyforge.org/mailman/listinfo/camping-list],
